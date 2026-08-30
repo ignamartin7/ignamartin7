@@ -45,12 +45,12 @@ Combining a background in **Information Security** and **Social Communication**[
 
 ### 📜 Certifications & Highlights
 
-- **CISSP** — *(In Preparation / ISC²)*[cite: 1]
-- **ISO/IEC 27001:2024 Lead Auditor** — *(In Preparation / IRAM)*[cite: 1]
-- **Google Cybersecurity Professional Certificate**[cite: 1]
-- **Cisco:** Cyber Defense Analyst | NDG Linux Essentials[cite: 1]
-- **Proofpoint:** Certified Security Awareness Specialist | Certified Phishing Specialist[cite: 1]
-- **Fortinet:** NSE 1, 2 & 3[cite: 1]
+- **CISSP** — *(In Preparation / ISC²)*
+- **ISO/IEC 27001:2024 Lead Auditor** — *(In Preparation / IRAM)*
+- **Google Cybersecurity Professional Certificate**
+- **Cisco:** Cyber Defense Analyst | NDG Linux Essentials
+- **Proofpoint:** Certified Security Awareness Specialist | Certified Phishing Specialist
+- **Fortinet:** NSE 1, 2 & 3
 
 ---
 
