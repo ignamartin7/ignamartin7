@@ -9,7 +9,7 @@
 
 Cybersecurity professional with over 5 years of experience leading Information Security Governance, Risk Management, and Compliance initiatives (ISO 27001, PCI DSS, BCRA). 
 
-Combining a background in **Information Security** and **Social Communication**, I specialize in bridging technical risks with business strategy—translating complex vulnerabilities into actionable roadmaps for C-level executives, audit bodies, and technical teams.
+Combining a background in **Information Security** and **Social Communication**, I specialize in bridging technical risks with business strategy, translating complex vulnerabilities into actionable roadmaps for C-level executives, audit bodies, and technical teams.
 
 - 🔭 **Current Focus:** SecOps, Zero Trust architecture, Threat Modeling, and Third-Party Risk Management (TPRM).
 - 🏛️ **Governance & Frameworks:** ISO/IEC 27001 implementation, BCP/DRP resilience planning, and multi-cloud security governance.
