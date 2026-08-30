@@ -11,10 +11,10 @@ Cybersecurity professional with over 5 years of experience leading Information S
 
 Combining a background in **Information Security** and **Social Communication**[cite: 1], I specialize in bridging technical risks with business strategy—translating complex vulnerabilities into actionable roadmaps for C-level executives, audit bodies, and technical teams[cite: 1].
 
-- 🔭 **Current Focus:** SecOps, Zero Trust architecture, Threat Modeling, and Third-Party Risk Management (TPRM)[cite: 1].
-- 🏛️ **Governance & Frameworks:** ISO/IEC 27001 implementation, BCP/DRP resilience planning, and multi-cloud security governance[cite: 1].
-- 🎓 **Education:** B.S. in Information Security (*Univ. Siglo 21*) & B.A. in Social Communication (*UNC*)[cite: 1].
-- 🏅 **Selected Candidate:** Ciberlac 2026 (Universidad Siglo 21 & UFSC)[cite: 1].
+- 🔭 **Current Focus:** SecOps, Zero Trust architecture, Threat Modeling, and Third-Party Risk Management (TPRM).
+- 🏛️ **Governance & Frameworks:** ISO/IEC 27001 implementation, BCP/DRP resilience planning, and multi-cloud security governance.
+- 🎓 **Education:** B.S. in Information Security (*Univ. Siglo 21*) & B.A. in Social Communication (*UNC*).
+- 🏅 **Selected Candidate:** Ciberlac 2026 (Universidad Siglo 21 & UFSC).
 
 ---
 
